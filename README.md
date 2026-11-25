@@ -21,7 +21,7 @@ The project implements a simplified card-based computing system featuring a memo
 The goal is to explore the fundamental concepts of computation, including memory, arithmetic operations, instruction decoding, program counters, and conditional control flow, while paying tribute to the pioneers of computer science.
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Analytical_engine_trial_model%2C_Charles_Babbage%2C_1834-1871_-_Science_Museum%2C_London_-_DSC05565.jpg" width="700" alt="Analytical Engine trial model">
+  <img src="images/Analytical_engine_trial_model,_Charles_Babbage,_1834-1871_-_Science_Museum,_London_-_DSC05565.jpg" width="700" alt="Analytical Engine trial model">
 </p>
 
 ---
