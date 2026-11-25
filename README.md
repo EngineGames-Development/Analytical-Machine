@@ -95,7 +95,7 @@ Her work remains an important example of the intersection between mathematics, e
 ## Charles Babbage's Analytical Engine
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Babbage%20Analytical%20Engine%20Plan%201840%20CHM.agr.jpg" width="700" alt="Historical Analytical Engine plan">
+  <img src="https://commons.wikimedia.org/wiki/File:Babbage_Analytical_Engine_Plan_1840_CHM.agr.jpg" width="700" alt="Historical Analytical Engine plan">
 </p>
 
 The Analytical Engine was a proposed mechanical general-purpose computer designed by Charles Babbage during the 19th century.
